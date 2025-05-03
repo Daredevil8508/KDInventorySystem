@@ -25,3 +25,6 @@ Sistema de gestión de inventario desarrollado en Java, con interfaz para regist
 ###### 🖼 Base de datos de los productos actualizada
 
 ![Base de datos de los productos actualizada] (https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/15%20BD%20con%20los%20productos.png)
+
+* 🖼 GIT Hub actualizando el repositorio
+![Base de datos de los productos actualizada]
