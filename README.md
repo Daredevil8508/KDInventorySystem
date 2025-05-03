@@ -16,15 +16,16 @@ Sistema de gestión de inventario desarrollado en Java, con interfaz para regist
 
 #### 🖼 Vista del CRUD para iniciar
 
-![CRUD para iniciar] (https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/10%20KDInventorySystem.png)
+![CRUD para iniciar](https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/10%20KDInventorySystem.png)
 
 ##### 🖼 Vistas de la base de datos actualizada
 
-![base de datos] (https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/14%20Base%20de%20datos%20codigo.png)
+![base de datos](https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/14%20Base%20de%20datos%20codigo.png)
 
 ###### 🖼 Base de datos de los productos actualizada
 
-![Base de datos de los productos actualizada] (https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/15%20BD%20con%20los%20productos.png)
+![Base de datos de los productos actualizada](https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/15%20BD%20con%20los%20productos.png)
 
 * 🖼 GIT Hub actualizando el repositorio
-![Base de datos de los productos actualizada]
+
+![Base de datos de los productos actualizada](https://github.com/Daredevil8508/KDInventorySystem/blob/master/img/16%20GIT%20screen.png)
